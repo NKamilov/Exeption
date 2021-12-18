@@ -15,6 +15,7 @@ public class Arrlist {
         arrayList.add(2,3);
         arrayList.add(3,4);
 
+        System.out.println("Hello Doni");
 
         try {
             System.out.println(arrayList.get(3));
